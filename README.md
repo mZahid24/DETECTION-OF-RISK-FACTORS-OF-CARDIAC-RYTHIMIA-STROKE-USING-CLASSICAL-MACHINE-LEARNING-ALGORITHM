@@ -1,0 +1,2 @@
+# DETECTION-OF-RISK-FACTORS-OF-CARDIAC-RYTHIMIA-STROKE-USING-CLASSICAL-MACHINE-LEARNING-ALGORITHM
+The purpose of this study is to build a predictive model to predict stroke and evaluate the accuracy of the model. We will explore four different models to see which one will produce reliable and repeatable results. Models that we will explore are decision tree, random forest, support vector machine, K nearest neighbor.
